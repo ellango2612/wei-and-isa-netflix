@@ -1,4 +1,4 @@
-# wei-and-isa-netflix
+# wei's-circle-netflix
 
 A brief data analyis of my boyfriend's Netflix watch history compared to his sister's in 2022.
 
