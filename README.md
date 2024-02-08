@@ -1,4 +1,4 @@
-# wei's-circle-netflix
+# wei's-netflix-circle
 
 A brief data analyis of my boyfriend (Wei)'s Netflix watch history compared to his sister's, his parents', and his friend's.
 
